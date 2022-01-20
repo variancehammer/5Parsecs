@@ -89,7 +89,7 @@ Long-term Space Mission, Truth, Artist
 
 Equipment: Hunting Rifle
 
-## SHIPNAME
+## Azure Dawn
 Type: Retired Scoutship
 
 Debt: 26
