@@ -28,6 +28,7 @@ Mining Colony, Survival, Mercenary
 
 Equipment:
 - Blast Rifle w/Beam Light
+- Scrap Pistol
 
 
 ## Alexis
@@ -92,7 +93,7 @@ Equipment: Hunting Rifle
 ## Azure Dawn
 Type: Retired Scoutship
 
-Debt: 26
+Debt: 24
 
 Hull Points: 25
 
@@ -109,12 +110,12 @@ Equipment:
 - (T)
 
 # Patrons:
-- (E)
-- (A)
+- Lycinis Merchant Combine
+- Shrike Logistics
 
 # Story Points: 3
 
 # Rumors: 1
 
-# Credits: 15
+# Credits: 10
 
