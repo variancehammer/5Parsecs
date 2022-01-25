@@ -60,7 +60,8 @@ Drifter, Loyalty, Troubleshooter
 XP: 4
 
 Equipment:
-- Colony Rifle, Scrap Pistol
+- Colony Rifle
+- Scrap Pistol
 
 
 ## Garret Davis
@@ -102,7 +103,9 @@ Mining Colony, Revenge, Hacker
 XP: 6
 
 Equipment:
-- Needle Rifle, Handgun, Frag Grenades (Damaged)
+- Needle Rifle
+- Handgun 
+- Frag Grenades (Damaged)
 
 
 ## Viv
@@ -121,7 +124,8 @@ Long-term Space Mission, Truth, Artist
 
 XP: 3
 
-Equipment: Hunting Rifle
+Equipment: 
+- Hunting Rifle
 
 ## Azure Dawn
 Type: Retired Scoutship
