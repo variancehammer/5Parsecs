@@ -15,7 +15,7 @@ Savvy: +1
 
 Tech Guild, Political, Starship Crew
 
-XP: 3
+XP: 6
 
 Equipment:
 - Glare Sword
@@ -32,15 +32,18 @@ Combat Skill: +1
 
 Toughness: 5
 
+Save: 5+
+
 Savvy: +0
 
 Mining Colony, Survival, Mercenary
 
-XP: 3
+XP: 5
 
 Equipment:
 - Blast Rifle w/Beam Light
 - Boarding Saber
+- Combat Armor
 
 
 ## Alexis
@@ -57,7 +60,7 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 4
+XP: 7
 
 Equipment:
 - Colony Rifle
@@ -78,7 +81,7 @@ Savvy: +0
 
 Military Outpost, Freedom, Agitator
 
-XP: 5
+XP: 8
 
 Equipment:
 - Military Rifle
@@ -100,7 +103,7 @@ Save: 6+
 
 Mining Colony, Revenge, Hacker
 
-XP: 6
+XP: 9
 
 Equipment:
 - Needle Rifle
@@ -114,7 +117,7 @@ Reactions: 1
 
 Speed: 4"
 
-Combat Skill: +0
+Combat Skill: +1
 
 Toughness: 3
 
@@ -122,7 +125,7 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 3
+XP: 7
 
 Equipment: 
 - Hunting Rifle
@@ -156,5 +159,5 @@ Equipment:
 
 # Rumors: 1
 
-# Credits: 13
+# Credits: 17
 
