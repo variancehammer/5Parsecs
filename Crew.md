@@ -48,7 +48,7 @@ Equipment:
 
 ## Alexis
 
-Reactions: 2
+Reactions: 3
 
 Speed: 4"
 
@@ -60,7 +60,7 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 7
+XP: 0
 
 Equipment:
 - Colony Rifle
@@ -73,7 +73,7 @@ Reactions: 2
 
 Speed: 4"
 
-Combat Skill: +0
+Combat Skill: +1
 
 Toughness: 3
 
@@ -81,7 +81,7 @@ Savvy: +0
 
 Military Outpost, Freedom, Agitator
 
-XP: 8
+XP: 1
 
 Equipment:
 - Military Rifle
@@ -93,7 +93,7 @@ Reactions: 1
 
 Speed: 4"
 
-Combat Skill: +0
+Combat Skill: +1
 
 Toughness: 5
 
@@ -103,7 +103,7 @@ Save: 6+
 
 Mining Colony, Revenge, Hacker
 
-XP: 9
+XP: 2
 
 Equipment:
 - Needle Rifle
@@ -117,7 +117,7 @@ Reactions: 1
 
 Speed: 4"
 
-Combat Skill: +1
+Combat Skill: +2
 
 Toughness: 3
 
@@ -125,7 +125,7 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 7
+XP: 0
 
 Equipment: 
 - Hunting Rifle
