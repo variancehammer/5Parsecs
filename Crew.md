@@ -15,7 +15,7 @@ Savvy: +1
 
 Tech Guild, Political, Starship Crew
 
-XP: 6
+XP: 9
 
 Equipment:
 - Glare Sword
@@ -38,7 +38,7 @@ Savvy: +0
 
 Mining Colony, Survival, Mercenary
 
-XP: 5
+XP: 8
 
 Equipment:
 - Blast Rifle w/Beam Light
@@ -60,7 +60,7 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 0
+XP: 3
 
 Equipment:
 - Colony Rifle
@@ -81,10 +81,11 @@ Savvy: +0
 
 Military Outpost, Freedom, Agitator
 
-XP: 1
+XP: 4
 
 Equipment:
 - Military Rifle
+- Hand Laser
 
 
 ## Trouble
@@ -103,7 +104,7 @@ Save: 6+
 
 Mining Colony, Revenge, Hacker
 
-XP: 2
+XP: 6
 
 Equipment:
 - Needle Rifle
@@ -125,7 +126,7 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 0
+XP: 3
 
 Equipment: 
 - Hunting Rifle
@@ -143,21 +144,27 @@ Properties:
 Equipment:
 - Duplicator
 - Purifier
+- Spare Parts
 - 3 Credits of Ship repair parts
 - 5 credits of Fuel
+- 2 credits for Starship parts
+
 
 # Rivals:
 - (G)
 - (T)
 - (T)
+- Desert Raiders
 
 # Patrons:
 - Lycinis Merchant Combine
 - Shrike Logistics
 
-# Story Points: 3
+# Story Points: 4
 
-# Rumors: 1
+# Rumors: 
 
-# Credits: 17
+# Quest Rumors: 1
+
+# Credits: 27
 
