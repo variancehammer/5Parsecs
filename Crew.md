@@ -15,7 +15,7 @@ Savvy: +1
 
 Tech Guild, Political, Starship Crew
 
-XP: 9
+XP: 12
 
 Equipment:
 - Glare Sword
@@ -38,7 +38,7 @@ Savvy: +0
 
 Mining Colony, Survival, Mercenary
 
-XP: 8
+XP: 11
 
 Equipment:
 - Blast Rifle w/Beam Light
@@ -60,11 +60,10 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 3
+XP: 6
 
 Equipment:
 - Colony Rifle
-- Scrap Pistol
 
 
 ## Garret Davis
@@ -81,11 +80,12 @@ Savvy: +0
 
 Military Outpost, Freedom, Agitator
 
-XP: 4
+XP: 7
 
 Equipment:
 - Military Rifle
 - Hand Laser
+- Combat Armor
 
 
 ## Trouble
@@ -104,7 +104,7 @@ Save: 6+
 
 Mining Colony, Revenge, Hacker
 
-XP: 6
+XP: 12
 
 Equipment:
 - Needle Rifle
@@ -126,15 +126,16 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 3
+XP: 6
 
 Equipment: 
 - Hunting Rifle
+- Hand Cannon
 
 ## Azure Dawn
 Type: Retired Scoutship
 
-Debt: 20
+Debt: 2
 
 Hull Points: 25
 
@@ -151,7 +152,7 @@ Equipment:
 
 
 # Rivals:
-- (G)
+- Elias Kirk
 - (T)
 - (T)
 - Desert Raiders
@@ -164,7 +165,7 @@ Equipment:
 
 # Rumors: 
 
-# Quest Rumors: 1
+# Quest Rumors: 2
 
-# Credits: 27
+# Credits: 9
 
