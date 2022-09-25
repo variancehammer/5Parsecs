@@ -109,7 +109,7 @@ XP: 12
 Equipment:
 - Needle Rifle
 - Handgun 
-- Frag Grenades (Damaged)
+- Frag Grenades
 
 
 ## Viv
@@ -135,7 +135,7 @@ Equipment:
 ## Azure Dawn
 Type: Retired Scoutship
 
-Debt: 2
+Debt: 0 (Paid Off)
 
 Hull Points: 25
 
@@ -147,7 +147,6 @@ Equipment:
 - Purifier
 - Spare Parts
 - 3 Credits of Ship repair parts
-- 5 credits of Fuel
 - 2 credits for Starship parts
 
 
@@ -167,5 +166,5 @@ Equipment:
 
 # Quest Rumors: 2
 
-# Credits: 9
+# Credits: 6
 
