@@ -13,9 +13,11 @@ Toughness: 3
 
 Savvy: +1
 
+Luck: 1
+
 Tech Guild, Political, Starship Crew
 
-XP: 12
+XP: 14
 
 Equipment:
 - Glare Sword
@@ -24,7 +26,7 @@ Equipment:
 
 ## Felix Salk
 
-Reactions: 1
+Reactions: 2
 
 Speed: 4"
 
@@ -38,10 +40,11 @@ Savvy: +0
 
 Mining Colony, Survival, Mercenary
 
-XP: 11
+XP: 6
 
 Equipment:
 - Blast Rifle w/Beam Light
+- Plasma Rifle (Broken)
 - Boarding Saber
 - Combat Armor
 
@@ -52,7 +55,7 @@ Reactions: 3
 
 Speed: 4"
 
-Combat Skill: +0
+Combat Skill: +1
 
 Toughness: 3
 
@@ -60,7 +63,7 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 6
+XP: 1
 
 Equipment:
 - Colony Rifle
@@ -102,9 +105,11 @@ Savvy: +2
 
 Save: 6+
 
+Luck: 1
+
 Mining Colony, Revenge, Hacker
 
-XP: 12
+XP: 14
 
 Equipment:
 - Needle Rifle
@@ -126,7 +131,7 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 6
+XP: 8
 
 Equipment: 
 - Hunting Rifle
@@ -149,22 +154,11 @@ Equipment:
 - 3 Credits of Ship repair parts
 - 2 credits for Starship parts
 
-
-# Rivals:
-- Elias Kirk
-- (T)
-- (T)
-- Desert Raiders
-
-# Patrons:
-- Lycinis Merchant Combine
-- Shrike Logistics
-
 # Story Points: 4
 
 # Rumors: 
 
-# Quest Rumors: 2
+# Quest Rumors: 3
 
-# Credits: 6
+# Credits: 13
 
