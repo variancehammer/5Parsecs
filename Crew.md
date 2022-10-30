@@ -66,7 +66,7 @@ Drifter, Loyalty, Troubleshooter
 XP: 1
 
 Equipment:
-- Colony Rifle
+- Shotgun
 
 
 ## Garret Davis
