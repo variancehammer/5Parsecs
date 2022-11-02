@@ -17,12 +17,15 @@ Luck: 1
 
 Tech Guild, Political, Starship Crew
 
-XP: 14
+XP: 10
 
 Equipment:
 - Glare Sword
-- Beam Pistol
+- Beam Pistol (+2" range)
 
+Well Fed: Can ignore next roll on the injury table.
+
+Pilot Training
 
 ## Felix Salk
 
@@ -40,11 +43,10 @@ Savvy: +0
 
 Mining Colony, Survival, Mercenary
 
-XP: 6
+XP: 9
 
 Equipment:
-- Blast Rifle w/Beam Light
-- Plasma Rifle (Broken)
+- Plasma Rifle
 - Boarding Saber
 - Combat Armor
 
@@ -63,7 +65,7 @@ Savvy: +0
 
 Drifter, Loyalty, Troubleshooter
 
-XP: 1
+XP: 4
 
 Equipment:
 - Shotgun
@@ -83,17 +85,17 @@ Savvy: +0
 
 Military Outpost, Freedom, Agitator
 
-XP: 7
+XP: 10
 
 Equipment:
-- Military Rifle
+- Blast Rifle w/Beam Light
 - Hand Laser
 - Combat Armor
 
 
 ## Trouble
 
-Reactions: 1
+Reactions: 2
 
 Speed: 4"
 
@@ -109,7 +111,7 @@ Luck: 1
 
 Mining Colony, Revenge, Hacker
 
-XP: 14
+XP: 10
 
 Equipment:
 - Needle Rifle
@@ -131,7 +133,7 @@ Savvy: +1
 
 Long-term Space Mission, Truth, Artist
 
-XP: 8
+XP: 12
 
 Equipment: 
 - Hunting Rifle
@@ -153,6 +155,7 @@ Equipment:
 - Spare Parts
 - 3 Credits of Ship repair parts
 - 2 credits for Starship parts
+- 10 credits worth of fuel
 
 # Story Points: 4
 
@@ -160,5 +163,11 @@ Equipment:
 
 # Quest Rumors: 3
 
-# Credits: 13
+# Credits: 6
+
+# Extra Gear
+- Stabilizer (Broken)
+- Deflector Field (Broken)
+- Combat Armor (Broken)
+- Military Rifle
 
